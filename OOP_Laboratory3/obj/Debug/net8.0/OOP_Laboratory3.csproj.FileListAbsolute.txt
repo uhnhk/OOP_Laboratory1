@@ -1,0 +1,14 @@
+C:\Users\Tumen\source\repos\OOP_Laboratory3\obj\Debug\net8.0\OOP_Laboratory3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tumen\source\repos\OOP_Laboratory3\obj\Debug\net8.0\OOP_Laboratory3.AssemblyInfoInputs.cache
+C:\Users\Tumen\source\repos\OOP_Laboratory3\obj\Debug\net8.0\OOP_Laboratory3.AssemblyInfo.cs
+C:\Users\Tumen\source\repos\OOP_Laboratory3\obj\Debug\net8.0\OOP_Laboratory3.csproj.CoreCompileInputs.cache
+C:\Users\Tumen\source\repos\OOP_Laboratory3\bin\Debug\net8.0\OOP_Laboratory3.exe
+C:\Users\Tumen\source\repos\OOP_Laboratory3\bin\Debug\net8.0\OOP_Laboratory3.deps.json
+C:\Users\Tumen\source\repos\OOP_Laboratory3\bin\Debug\net8.0\OOP_Laboratory3.runtimeconfig.json
+C:\Users\Tumen\source\repos\OOP_Laboratory3\bin\Debug\net8.0\OOP_Laboratory3.dll
+C:\Users\Tumen\source\repos\OOP_Laboratory3\bin\Debug\net8.0\OOP_Laboratory3.pdb
+C:\Users\Tumen\source\repos\OOP_Laboratory3\obj\Debug\net8.0\OOP_Laboratory3.dll
+C:\Users\Tumen\source\repos\OOP_Laboratory3\obj\Debug\net8.0\refint\OOP_Laboratory3.dll
+C:\Users\Tumen\source\repos\OOP_Laboratory3\obj\Debug\net8.0\OOP_Laboratory3.pdb
+C:\Users\Tumen\source\repos\OOP_Laboratory3\obj\Debug\net8.0\OOP_Laboratory3.genruntimeconfig.cache
+C:\Users\Tumen\source\repos\OOP_Laboratory3\obj\Debug\net8.0\ref\OOP_Laboratory3.dll

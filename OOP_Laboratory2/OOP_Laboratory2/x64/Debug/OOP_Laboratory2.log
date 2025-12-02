@@ -1,0 +1,15 @@
+﻿  OOP_Laboratory2.cpp
+C:\Users\Tumen\source\repos\OOP_Laboratory2\OOP_Laboratory2.cpp(1,7): error C2065: System: необъявленный идентификатор
+C:\Users\Tumen\source\repos\OOP_Laboratory2\OOP_Laboratory2.cpp(1,7): error C2187: синтаксическая ошибка: непредвиденный здесь элемент "System"
+C:\Users\Tumen\source\repos\OOP_Laboratory2\OOP_Laboratory2.cpp(2,7): error C2065: System: необъявленный идентификатор
+C:\Users\Tumen\source\repos\OOP_Laboratory2\OOP_Laboratory2.cpp(2,7): error C2187: синтаксическая ошибка: непредвиденный здесь элемент "System"
+C:\Users\Tumen\source\repos\OOP_Laboratory2\OOP_Laboratory2.cpp(2,13): error C2059: синтаксическая ошибка: .
+C:\Users\Tumen\source\repos\OOP_Laboratory2\OOP_Laboratory2.cpp(3,7): error C2065: System: необъявленный идентификатор
+C:\Users\Tumen\source\repos\OOP_Laboratory2\OOP_Laboratory2.cpp(3,7): error C2187: синтаксическая ошибка: непредвиденный здесь элемент "System"
+C:\Users\Tumen\source\repos\OOP_Laboratory2\OOP_Laboratory2.cpp(3,13): error C2059: синтаксическая ошибка: .
+C:\Users\Tumen\source\repos\OOP_Laboratory2\OOP_Laboratory2.cpp(4,7): error C2065: System: необъявленный идентификатор
+C:\Users\Tumen\source\repos\OOP_Laboratory2\OOP_Laboratory2.cpp(4,7): error C2187: синтаксическая ошибка: непредвиденный здесь элемент "System"
+C:\Users\Tumen\source\repos\OOP_Laboratory2\OOP_Laboratory2.cpp(4,13): error C2059: синтаксическая ошибка: .
+C:\Users\Tumen\source\repos\OOP_Laboratory2\OOP_Laboratory2.cpp(10,26): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\Tumen\source\repos\OOP_Laboratory2\OOP_Laboratory2.cpp(15,1): error C2059: синтаксическая ошибка: }
+C:\Users\Tumen\source\repos\OOP_Laboratory2\OOP_Laboratory2.cpp(15,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"

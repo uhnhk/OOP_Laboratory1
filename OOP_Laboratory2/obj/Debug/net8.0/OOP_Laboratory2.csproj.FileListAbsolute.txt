@@ -1,0 +1,14 @@
+C:\Users\Tumen\source\repos\OOP_Laboratory2\bin\Debug\net8.0\OOP_Laboratory2.exe
+C:\Users\Tumen\source\repos\OOP_Laboratory2\bin\Debug\net8.0\OOP_Laboratory2.deps.json
+C:\Users\Tumen\source\repos\OOP_Laboratory2\bin\Debug\net8.0\OOP_Laboratory2.runtimeconfig.json
+C:\Users\Tumen\source\repos\OOP_Laboratory2\bin\Debug\net8.0\OOP_Laboratory2.dll
+C:\Users\Tumen\source\repos\OOP_Laboratory2\bin\Debug\net8.0\OOP_Laboratory2.pdb
+C:\Users\Tumen\source\repos\OOP_Laboratory2\obj\Debug\net8.0\OOP_Laboratory2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tumen\source\repos\OOP_Laboratory2\obj\Debug\net8.0\OOP_Laboratory2.AssemblyInfoInputs.cache
+C:\Users\Tumen\source\repos\OOP_Laboratory2\obj\Debug\net8.0\OOP_Laboratory2.AssemblyInfo.cs
+C:\Users\Tumen\source\repos\OOP_Laboratory2\obj\Debug\net8.0\OOP_Laboratory2.csproj.CoreCompileInputs.cache
+C:\Users\Tumen\source\repos\OOP_Laboratory2\obj\Debug\net8.0\OOP_Laboratory2.dll
+C:\Users\Tumen\source\repos\OOP_Laboratory2\obj\Debug\net8.0\refint\OOP_Laboratory2.dll
+C:\Users\Tumen\source\repos\OOP_Laboratory2\obj\Debug\net8.0\OOP_Laboratory2.pdb
+C:\Users\Tumen\source\repos\OOP_Laboratory2\obj\Debug\net8.0\OOP_Laboratory2.genruntimeconfig.cache
+C:\Users\Tumen\source\repos\OOP_Laboratory2\obj\Debug\net8.0\ref\OOP_Laboratory2.dll

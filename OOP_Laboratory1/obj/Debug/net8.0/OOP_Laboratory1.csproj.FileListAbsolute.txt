@@ -1,0 +1,14 @@
+C:\Users\Tumen\source\repos\OOP_Laboratory1\bin\Debug\net8.0\OOP_Laboratory1.exe
+C:\Users\Tumen\source\repos\OOP_Laboratory1\bin\Debug\net8.0\OOP_Laboratory1.deps.json
+C:\Users\Tumen\source\repos\OOP_Laboratory1\bin\Debug\net8.0\OOP_Laboratory1.runtimeconfig.json
+C:\Users\Tumen\source\repos\OOP_Laboratory1\bin\Debug\net8.0\OOP_Laboratory1.dll
+C:\Users\Tumen\source\repos\OOP_Laboratory1\bin\Debug\net8.0\OOP_Laboratory1.pdb
+C:\Users\Tumen\source\repos\OOP_Laboratory1\obj\Debug\net8.0\OOP_Laboratory1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tumen\source\repos\OOP_Laboratory1\obj\Debug\net8.0\OOP_Laboratory1.AssemblyInfoInputs.cache
+C:\Users\Tumen\source\repos\OOP_Laboratory1\obj\Debug\net8.0\OOP_Laboratory1.AssemblyInfo.cs
+C:\Users\Tumen\source\repos\OOP_Laboratory1\obj\Debug\net8.0\OOP_Laboratory1.csproj.CoreCompileInputs.cache
+C:\Users\Tumen\source\repos\OOP_Laboratory1\obj\Debug\net8.0\OOP_Laboratory1.dll
+C:\Users\Tumen\source\repos\OOP_Laboratory1\obj\Debug\net8.0\refint\OOP_Laboratory1.dll
+C:\Users\Tumen\source\repos\OOP_Laboratory1\obj\Debug\net8.0\OOP_Laboratory1.pdb
+C:\Users\Tumen\source\repos\OOP_Laboratory1\obj\Debug\net8.0\OOP_Laboratory1.genruntimeconfig.cache
+C:\Users\Tumen\source\repos\OOP_Laboratory1\obj\Debug\net8.0\ref\OOP_Laboratory1.dll
